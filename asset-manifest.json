@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cabbage-tech/static/css/main.c4ab7940.chunk.css",
+    "main.css": "/cabbage-tech/static/css/main.ac9dba41.chunk.css",
     "main.js": "/cabbage-tech/static/js/main.fbf6cb46.chunk.js",
     "main.js.map": "/cabbage-tech/static/js/main.fbf6cb46.chunk.js.map",
     "runtime-main.js": "/cabbage-tech/static/js/runtime-main.b723d006.js",
@@ -8,16 +8,16 @@
     "static/js/2.19c3c994.chunk.js": "/cabbage-tech/static/js/2.19c3c994.chunk.js",
     "static/js/2.19c3c994.chunk.js.map": "/cabbage-tech/static/js/2.19c3c994.chunk.js.map",
     "index.html": "/cabbage-tech/index.html",
-    "precache-manifest.ae0d208636c7fb2f3a09728356716892.js": "/cabbage-tech/precache-manifest.ae0d208636c7fb2f3a09728356716892.js",
+    "precache-manifest.e565ab54d30017caf76792085f6095b5.js": "/cabbage-tech/precache-manifest.e565ab54d30017caf76792085f6095b5.js",
     "service-worker.js": "/cabbage-tech/service-worker.js",
-    "static/css/main.c4ab7940.chunk.css.map": "/cabbage-tech/static/css/main.c4ab7940.chunk.css.map",
+    "static/css/main.ac9dba41.chunk.css.map": "/cabbage-tech/static/css/main.ac9dba41.chunk.css.map",
     "static/js/2.19c3c994.chunk.js.LICENSE": "/cabbage-tech/static/js/2.19c3c994.chunk.js.LICENSE",
     "static/media/line-icons.css": "/cabbage-tech/static/media/Linearicons-Free.ec161a74.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b723d006.js",
     "static/js/2.19c3c994.chunk.js",
-    "static/css/main.c4ab7940.chunk.css",
+    "static/css/main.ac9dba41.chunk.css",
     "static/js/main.fbf6cb46.chunk.js"
   ]
 }
