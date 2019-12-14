@@ -15,19 +15,19 @@ class Services extends Component {
                         <div className="col-md-4 col-sm-6">
                             <div className="item-boxes wow fadeInDown" data-wow-delay="0.4s">
                                 <div className="icon">
-                                    <i className="lnr lnr-screen" />
+                                    <i className="lnr lnr-tablet" />
                                 </div>
-                                <h4>Application</h4>
+                                <h4>System Software</h4>
                                 <p>We develop applications using latest services and tools with smooth user experience.</p>
                             </div>
                         </div>
                         <div className="col-md-4 col-sm-6">
                             <div className="item-boxes wow fadeInDown" data-wow-delay="0.6s">
                                 <div className="icon">
-                                    <i className="lnr lnr-tablet" />
+                                    <i className="lnr lnr-screen" />
                                 </div>
-                                <h4>Mobile Application</h4>
-                                <p>We develop handy mobile application in android and ios platform.</p>
+                                <h4>Software consultancy</h4>
+                                <p>We have a wealth of technical and business experience to share with you.</p>
                             </div>
                         </div>
                         <div className="col-md-4 col-sm-6">
@@ -36,7 +36,7 @@ class Services extends Component {
                                     <i className="lnr lnr-laptop-phone" />
                                 </div>
                                 <h4>Single Page Application</h4>
-                                <p>uses AJAX and HTML5 to create fluid and responsive Web apps, without constant page reloads.</p>
+                                <p>uses React or Angular to create fluid and responsive Web apps, without constant page reloads.</p>
                             </div>
                         </div>
                     </div>

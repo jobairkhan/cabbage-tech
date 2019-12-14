@@ -21,7 +21,7 @@ class PricingPlans extends Component {
                                     <ul>
                                         <li>3 Installments</li>
                                         <li>4 months support free</li>
-                                        <li><small>NTier based app</small></li>
+                                        <li><small>Negotiable</small></li>
                                     </ul>
                                 </div>
                             </div>
