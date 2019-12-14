@@ -15,7 +15,7 @@ class Services extends Component {
                         <div className="col-md-4 col-sm-6">
                             <div className="item-boxes wow fadeInDown" data-wow-delay="0.4s">
                                 <div className="icon">
-                                    <i className="lnr lnr-tablet" />
+                                    <i className="lnr lnr-laptop" />
                                 </div>
                                 <h4>System Software</h4>
                                 <p>We develop applications using latest services and tools with smooth user experience.</p>
@@ -24,7 +24,7 @@ class Services extends Component {
                         <div className="col-md-4 col-sm-6">
                             <div className="item-boxes wow fadeInDown" data-wow-delay="0.6s">
                                 <div className="icon">
-                                    <i className="lnr lnr-screen" />
+                                    <i className="lnr lnr-diamond" />
                                 </div>
                                 <h4>Software consultancy</h4>
                                 <p>We have a wealth of technical and business experience to share with you.</p>

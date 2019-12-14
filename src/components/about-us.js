@@ -6,7 +6,7 @@ class AboutUs extends Component {
             <section id="aboutUs" className="section team">
                 <div className="container">
                     <div className="row wow fadeInDown p-3 animated" data-wow-duration="1000ms" data-wow-delay="1s">
-                        <div className="col-md-3 inline">
+                        <div className="col-md-3 inline" style={{padding: 5}}>
                             <img src={process.env.PUBLIC_URL + "/images/1.png"} className="img-responsive" />
                         </div>
                         <div className="col-md-9 inline">
