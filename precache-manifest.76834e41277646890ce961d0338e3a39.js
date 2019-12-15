@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72a2dac7252c233588f97054ac5c3e8c",
+    "revision": "d0c3e3b61b45042a22729a4f331f4258",
     "url": "/cabbage-tech/index.html"
   },
   {
-    "revision": "cce482d55684debe4f95",
+    "revision": "05e7e05b69f4442c7a80",
     "url": "/cabbage-tech/static/css/main.ac9dba41.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cabbage-tech/static/js/2.19c3c994.chunk.js.LICENSE"
   },
   {
-    "revision": "cce482d55684debe4f95",
-    "url": "/cabbage-tech/static/js/main.848a81d1.chunk.js"
+    "revision": "05e7e05b69f4442c7a80",
+    "url": "/cabbage-tech/static/js/main.3cfd29eb.chunk.js"
   },
   {
     "revision": "665940167ea1954e406a",

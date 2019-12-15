@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cabbage-tech/precache-manifest.0bbf88f8d713c691ccf3ec9bb2737570.js"
+  "/cabbage-tech/precache-manifest.76834e41277646890ce961d0338e3a39.js"
 );
 
 self.addEventListener('message', (event) => {
