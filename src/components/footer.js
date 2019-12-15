@@ -15,10 +15,10 @@ class Footer extends Component {
                                 </ul>
                             </div>
                             <span>
-                                Made with <i className="fa fa-heart pulse" /> in <a>CabbageTech</a>
+                                Made with <i className="fa fa-heart pulse" /> in <a href="/">CabbageTech</a>
                             </span>
                             <div className="site-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="0.3s">
-                                <p>All copyrights reserved © 2017 - Powered by <a rel="nofollow" href="#">CabbageTech.</a></p>
+                                <p>All copyrights reserved © 2017 - Powered by <a rel="nofollow" href="/" >CabbageTech.</a></p>
                             </div>
                         </div>
                     </div>

@@ -33,13 +33,13 @@ class Sidebar extends Component {
                 <a className="nav-link" href="/#pricing">Pricing</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/Home/About">About Us</a>
+                <a className="nav-link" href="/#aboutUs">About Us</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/#contact">Contact</a>
               </li>
               <li className="nav-item">                
-                  <a target="_blank" href="https://cabbagetech.blog" style={{padding:0}}>Blog</a>                
+                  <a className="nav-link" target="_blank" rel="noopener noreferrer" href="https://cabbagetech.blog">Blog</a>                
               </li>
             </ul>
           </div>
