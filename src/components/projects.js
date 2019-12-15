@@ -39,7 +39,7 @@ class Projects extends Component {
                                     <div className="portfolio-item">
                                         <div className="shot-item">
                                             <a className="overlay " href={process.env.PUBLIC_URL +"/images/portfolio/img4.jpg"}>
-                                                <img src={process.env.PUBLIC_URL + "/images/portfolio/img4.jpg"} />
+                                                <img src={process.env.PUBLIC_URL + "/images/portfolio/img4.jpg"} alt="Playmap"/>
                                                 <i className="lnr lnr-plus-circle item-icon" />
                                             </a>
                                         </div>

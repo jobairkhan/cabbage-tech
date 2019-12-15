@@ -17,7 +17,8 @@ class Technologies extends Component {
                 <div className="box-item left">
                   <span className="icon">
                     <a href="https://www.asp.net/core/overview/aspnet-vnext">
-                      <img src={process.env.PUBLIC_URL + "/images/asp.net.png"} style={{ position: 'relative', top: '8px' }} />
+                      <img src={process.env.PUBLIC_URL + "/images/asp.net.png"} alt="asp.netcore"
+                           style={{ position: 'relative', top: '8px' }} />
                     </a>
                   </span>
                   <div className="text">
@@ -55,7 +56,7 @@ class Technologies extends Component {
             </div>
             <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12">
               <div className="show-box wow fadeInDown animated animated" data-wow-offset={10} style={{ visibility: 'visible' }}>
-                <img src={process.env.PUBLIC_URL + "/images/features/feature2.png"} />
+                <img src={process.env.PUBLIC_URL + "/images/features/feature2.png"} alt="Features"/>
               </div>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -74,7 +75,8 @@ class Technologies extends Component {
                 <div className="box-item right">
                   <span className="icon">
                     <a href="https://www.javascript.com/">
-                      <img src={process.env.PUBLIC_URL + "/images/js.svg"} style={{ position: 'relative', top: '10px' }} />
+                      <img src={process.env.PUBLIC_URL + "/images/js.svg"} alt="js"
+                           style={{ position: 'relative', top: '10px' }} />
                     </a>
                   </span>
                   <div className="text">
