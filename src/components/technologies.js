@@ -18,7 +18,7 @@ class Technologies extends Component {
                   <span className="icon">
                     <a href="https://www.asp.net/core/overview/aspnet-vnext">
                       <img src={process.env.PUBLIC_URL + "/images/asp.net.png"} alt="asp.netcore"
-                           style={{ position: 'relative', top: '8px' }} />
+                        style={{ position: 'relative', top: '8px' }} />
                     </a>
                   </span>
                   <div className="text">
@@ -28,35 +28,34 @@ class Technologies extends Component {
                 </div>
                 <div className="box-item left">
                   <span className="icon">
-                    <a href="https://groups.google.com/forum/?hl=en#!forum/dddcqrs">
-                      <i className="lnr lnr-database" />
+                    <a href="https://www.mapbox.com/">
+                      <img src={process.env.PUBLIC_URL + "/images/mapbox.png"} alt="Mapbox.com"
+                        style={{ position: 'relative', top: '8px' }} />
                     </a>
                   </span>
                   <div className="text">
-                    <a href="https://groups.google.com/forum/?hl=en#!forum/dddcqrs"><h4>CQRS, ES and DDD</h4></a>
+                    <a href="https://www.mapbox.com/"><h4>Mapbox</h4></a>
                     <p>
-                      These are the design approaches to provide data guarantee, quick response to the user and scalability.
+                      Mapbox provides you with the map design tools and mapping libraries needed to make dynamic, performant, and customized maps.
                     </p>
                   </div>
                 </div>
                 <div className="box-item left">
                   <span className="icon">
-                    <a href="https://www.w3schools.com/html/">
-                      <i className="lnr lnr-code" />
+                    <a href="https://aws.amazon.com/">
+                      <i className="lnr lnr-cloud" />
                     </a>
                   </span>
                   <div className="text">
-                    <a href="https://www.w3schools.com/html/"><h4>HTML5 &amp; CSS3</h4></a>
-                    <p>
-                      HTML &amp; CSS combined used for creating and describing the presentation of web pages and web applications.
-                    </p>
+                    <a href="https://aws.amazon.com/"> <h4>AWS</h4></a>
+                    <p>Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud platform. Go to cloud with us.</p>
                   </div>
                 </div>
               </div>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12">
               <div className="show-box wow fadeInDown animated animated" data-wow-offset={10} style={{ visibility: 'visible' }}>
-                <img src={process.env.PUBLIC_URL + "/images/features/feature2.png"} alt="Features"/>
+                <img src={process.env.PUBLIC_URL + "/images/features/feature2.png"} alt="Features" />
               </div>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -76,7 +75,7 @@ class Technologies extends Component {
                   <span className="icon">
                     <a href="https://www.javascript.com/">
                       <img src={process.env.PUBLIC_URL + "/images/js.svg"} alt="js"
-                           style={{ position: 'relative', top: '10px' }} />
+                        style={{ position: 'relative', top: '10px' }} />
                     </a>
                   </span>
                   <div className="text">
@@ -86,13 +85,15 @@ class Technologies extends Component {
                 </div>
                 <div className="box-item right">
                   <span className="icon">
-                    <a href="https://en.wikipedia.org/wiki/Parallax">
-                      <i className="lnr lnr-magic-wand" />
+                    <a href="https://www.w3schools.com/html/">
+                      <i className="lnr lnr-code" />
                     </a>
                   </span>
                   <div className="text">
-                    <a href="https://en.wikipedia.org/wiki/Parallax"> <h4>Parallax Design</h4></a>
-                    <p>Parallax scrolling, also known as "Asymmetrical scrolling", is a technique in computer graphics and web design.</p>
+                    <a href="https://www.w3schools.com/html/"><h4>HTML5 &amp; CSS3</h4></a>
+                    <p>
+                      HTML &amp; CSS combined used for creating and describing the presentation of web pages and web applications.
+                    </p>
                   </div>
                 </div>
               </div>
