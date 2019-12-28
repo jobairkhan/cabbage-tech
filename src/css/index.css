@@ -848,8 +848,6 @@ h6.description {
   border-color: #fff;
   color: #88C425; }
 
-.google-maps {
-  background: #f2f2f2; }
 
 /* ==========================================================================
    Blog
@@ -939,6 +937,9 @@ h6.description {
 
 #contact {
   background: #f2f2f2; }
+  
+#contact #find-us {
+  background: #fff; }
   #contact .contact-block {
     background: #fff;
     padding: 30px;

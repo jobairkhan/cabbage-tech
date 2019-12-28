@@ -11,10 +11,9 @@ import Technologies from './components/technologies'
 import AboutUs from './components/about-us'
 import Projects from './components/projects'
 // import Blog from './components/blog'
-import PricingPlans from './components/pricing-plans'
-import ContactUs from './components/contact-us'
-import Footer from './components/footer'
-import FindUs from './components/find-us';
+import PricingPlans from './components/pricing-plans';
+import ContactUs from './components/contact-us';
+import Footer from './components/footer';
 
 class App extends Component {
 	render() {
@@ -29,8 +28,7 @@ class App extends Component {
 							<Technologies></Technologies>
 							<Projects></Projects>
 							<PricingPlans></PricingPlans> 
-							<AboutUs></AboutUs>														
-							<FindUs></FindUs>
+							<AboutUs></AboutUs>
 							<ContactUs></ContactUs>
 							<Footer></Footer>
 						</div>

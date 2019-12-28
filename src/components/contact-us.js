@@ -1,55 +1,66 @@
 import React, { Component } from "react";
+import FindUs from './find-us';
 
 class ContactUs extends Component {
     render() {
         return (
-
-            <section id="contact" className="section">
+            <section id="contact" className="section team">
                 <div className="container">
-                    <div className="row justify-content-md-center">
-                        <div className="col-md-9 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0.3s">
-                            <div className="contact-block">
-                                <div className="section-header">
-                                    <h2 className="section-title wow fadeIn" data-wow-duration="1000ms" data-wow-delay="0.3s">Contact <span>Us</span></h2>
-                                    <hr className="lines wow zoomIn" data-wow-delay="0.3s" />
-                                </div>
-                                <form asp-controller="Home" asp-action="SendMessage" method="post" encType="multipart/form-data">
-                                    <div className="row">
-                                        <div className="col-md-6">
-                                            <div className="form-group">
-                                                <input type="text" className="form-control" id="name" name="name" placeholder="Your Name" required data-error="Please enter your name" />
-                                                <div className="help-block with-errors" />
-                                            </div>
-                                        </div>
-                                        <div className="col-md-6">
-                                            <div className="form-group">
-                                                <input type="text" placeholder="Your Email" id="email" className="form-control" name="email" required data-error="Please enter your email" />
-                                                <div className="help-block with-errors" />
-                                            </div>
-                                        </div>
-                                        <div className="col-md-12">
-                                            <div className="form-group">
-                                                <input type="text" placeholder="Subject" id="msg_subject" name="subject" className="form-control" required data-error="Please enter your subject" />
-                                                <div className="help-block with-errors" />
-                                            </div>
-                                        </div>
-                                        <div className="col-md-12">
-                                            <div className="form-group">
-                                                <textarea className="form-control" placeholder="Your Message" name="message" rows={11} data-error="Write your message" required defaultValue={""} />
-                                                <div className="help-block with-errors" />
-                                            </div>
-                                            <div className="submit-button text-center">
-                                                <button className="btn btn-common" id="submit" type="submit">Send Message</button>
-                                                <div id="msgSubmit" className="h3 text-center hidden" />
-                                                <div className="clearfix" />
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
+                    <div className="section-header">
+                        <h2 className="section-title wow fadeIn" data-wow-duration="1000ms" data-wow-delay="0.3s">Contact <span>Us</span></h2>
+                        <hr className="lines wow zoomIn" data-wow-delay="0.3s" />
                     </div>
-                </div>
+                    <div className="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0.3s">
+                        <address>
+                            <div className="row">
+                                <div className="col-md-4"></div>
+                                <div className="col-md-8">
+                                    <div className="icon">
+                                        <span class="lnr lnr-envelope"></span>&nbsp;
+                                            <a href="mailto:webmaster@example.com" >
+                                             <strong>support@cabbagetech.co.bd</strong>
+                                            </a>
+                                    </div>
+                                </div>
+                                <div className="col-md-4"></div>
+                                <div className="col-md-8">
+                                    <div className="icon">
+                                        <span className="lnr lnr-phone"></span>&nbsp;
+                                        <strong>
+                                            <a href="tel:+88029342476">+88 02 9342476</a>
+                                        </strong>
+                                    </div>
+                                </div>
+                                <div className="col-md-4"></div>
+                                <div className="col-md-8">
+                                    <div className="icon">
+                                        <span class="lnr lnr-smartphone"></span>&nbsp;
+                                        <strong><a href="tel:+8801741740074">+88 01741-740074</a></strong>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="row">
+                                <div className="col-md-4"></div>
+                                <div className="col-md-8">
+                                    <div className="icon">
+                                        <span class="lnr lnr-apartment"></span>&nbsp;
+                                                visit us at:<br />
+                                    </div>
+                                    <strong> 
+                                        <a className="nav-link" href="/#FindUs">
+                                        186 Shahid Syed Nazrul Islam Sarani<br />
+                                        MCT Ally's Center<br />
+                                        Level-10, Suite-2<br />
+                                        40 Bijoy Nagar<br />
+                                        Dhaka-1000, Bangladesh
+                                        </a>
+                                    </strong>
+                                    </div>
+                            </div>
+                        </address>
+                    </div>
+                </div>                														
+				<FindUs></FindUs>
             </section>
         );
     }
