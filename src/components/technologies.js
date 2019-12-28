@@ -80,7 +80,10 @@ class Technologies extends Component {
                   </span>
                   <div className="text">
                     <a href="https://www.javascript.com/"><h4>Javascript</h4></a>
-                    <p>JavaScript is a high-level, dynamic, weakly typed, object-based, multi-paradigm, and interpreted programming language.</p>
+                    <p>
+                     We have been using React, Redux or Angular framework for out projects
+                    </p>
+                    
                   </div>
                 </div>
                 <div className="box-item right">
