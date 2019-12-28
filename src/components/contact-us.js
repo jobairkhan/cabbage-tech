@@ -14,7 +14,7 @@ class ContactUs extends Component {
                         <address>
                             <div className="row">
                                 <div className="col-md-4 col-sm-6">
-                                    <a href="mailto:webmaster@example.com">
+                                    <a href="mailto:support@cabbagetech.co.bd">
                                         <div className="item-boxes">
                                             <div className="icon">
                                                 <i class="lnr lnr-envelope"></i>
