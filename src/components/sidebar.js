@@ -1,12 +1,8 @@
 import React, { Component } from 'react';
 
 class Sidebar extends Component {
-  constructor(props){
-    super(props);
-    this.handleClick = this.handleClick.bind(this);
-  }
-
-  handleClick(e){
+ 
+  handleClick = (e) =>{
     e.preventDefault();
     document.body.classList.remove('show-menu');
   }
