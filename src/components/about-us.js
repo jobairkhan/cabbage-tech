@@ -23,7 +23,7 @@ class AboutUs extends Component {
                             <h1>Md. Mazam Ali Khan</h1>
                             <h2>Founder</h2>
                             <p>
-                                Md. Majam Ali Khan is the managing director of Cabbage Tech leads on its Board of Directors, is responsible for Cabbage Tech's day-to-day-operations, as well as lead the company's product &amp; service development and technology strategy. He has been successfully leading a promising team to the global forefront to build up the name of Bangladesh as one of the upcoming countries in the field of Information Technology. Md. Majam Ali Khan was elected as the President of Dhaka Tax Bar for the year of 2015.
+                                Md. Mazam Ali Khan is the managing director of Cabbage Tech leads on its Board of Directors, is responsible for Cabbage Tech's day-to-day-operations, as well as lead the company's product &amp; service development and technology strategy. He has been successfully leading a promising team to the global forefront to build up the name of Bangladesh as one of the upcoming countries in the field of Information Technology. Md. Majam Ali Khan was elected as the President of Dhaka Tax Bar for the year of 2015.
                             </p>
                         </div>
                     </div>
@@ -51,7 +51,7 @@ class AboutUs extends Component {
                                         onClick={this.executeOnClick}
                                         expanded={false}
                                         width={500}>
-                                        Jobair Khan accumulated regional and international experience exceeding 10 years of proficiency in team management,
+                                        M Jobair Khan accumulated regional and international experience exceeding 10 years of proficiency in team management,
                                         software development, project planning, ERP, IT service management and his operational excellence
                                         by managing enterprise level project in PMI framework also drives the quality assurance initiatives for the company.
                                         His volume of experience, aptitude and adroit decision-making has culminated into several leading executive positions and board memberships.
