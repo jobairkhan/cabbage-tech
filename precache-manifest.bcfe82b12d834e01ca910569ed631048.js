@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad4b5b593fe010d163e6db1b92bf5cc2",
+    "revision": "31c3ffc33e5cd37ee4e0f4aa59ab658c",
     "url": "/index.html"
   },
   {
-    "revision": "819008e9e34623176c38",
-    "url": "/static/css/main.4fd05968.chunk.css"
+    "revision": "73214223e75ac7ae147f",
+    "url": "/static/css/main.1e1cd750.chunk.css"
   },
   {
-    "revision": "b4bc44076d4b8f798751",
-    "url": "/static/js/2.e9e0bea7.chunk.js"
+    "revision": "22a970b40f6f817d9a9b",
+    "url": "/static/js/2.27579d30.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/static/js/2.e9e0bea7.chunk.js.LICENSE"
+    "url": "/static/js/2.27579d30.chunk.js.LICENSE"
   },
   {
-    "revision": "819008e9e34623176c38",
-    "url": "/static/js/main.8d9d8785.chunk.js"
+    "revision": "73214223e75ac7ae147f",
+    "url": "/static/js/main.abbfb4b2.chunk.js"
   },
   {
     "revision": "3c72cab9c76254f855a7",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "03e91f122aa5fd425abbe23c85546eb0",
     "url": "/static/media/Linearicons-Free.03e91f12.woff2"
+  },
+  {
+    "revision": "2781bf543c08d394dc78dec86989e3fd",
+    "url": "/static/media/Linearicons-Free.2781bf54.svg"
   },
   {
     "revision": "2f3e9f80fff7d699dd3de6904d7d1647",
@@ -38,9 +42,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b9b7f23cb61b1f503e1249b63d980448",
     "url": "/static/media/Linearicons-Free.b9b7f23c.eot"
-  },
-  {
-    "revision": "ec161a74448ccf2c18beefe8cca2b44a",
-    "url": "/static/media/Linearicons-Free.ec161a74.svg"
   }
 ]);
