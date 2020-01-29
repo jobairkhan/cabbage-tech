@@ -23,11 +23,15 @@ class AboutUs extends Component {
                             <h1>Md. Mazam Ali Khan</h1>
                             <h2>Founder</h2>
                             <p>
-                                Md. Mazam Ali Khan is the managing director of Cabbage Tech leads on its Board of Directors, is responsible for Cabbage Tech's day-to-day-operations, as well as lead the company's product &amp; service development and technology strategy. He has been successfully leading a promising team to the global forefront to build up the name of Bangladesh as one of the upcoming countries in the field of Information Technology. Md. Majam Ali Khan was elected as the President of Dhaka Tax Bar for the year of 2015.
+                                Md. Mazam Ali Khan is the managing director of Cabbage Tech leads on its Board of Directors, is responsible for Cabbage Tech's day-to-day-operations, as well as lead the company's product &amp; service development and technology strategy. 
+                                He has been successfully leading a promising team to the global forefront to build up the name of Bangladesh as one of the upcoming countries in the field of Information Technology. 
+                                Md. Mazam Ali Khan was elected as the President of Dhaka Tax Bar for the year of 2015.
                             </p>
                         </div>
                     </div>
-                    <div className="team">
+                </div>
+            </section>
+                    /* <div className="team">
                         <div className="section-header">
                             <h2 className="section-title wow fadeIn animated" data-wow-duration="1000ms" data-wow-delay="0.3s" style={{ visibility: 'visible', WebkitAnimationDuration: '1000ms', MozAnimationDuration: '1000ms', animationDuration: '1000ms', WebkitAnimationDelay: '0.3s', MozAnimationDelay: '0.3s', animationDelay: '0.3s' }}>
                                 The <span>Team</span>
@@ -43,7 +47,6 @@ class AboutUs extends Component {
                                     <h1>M Jobair Khan </h1>
                                     <h2>Software Consultant</h2>
                                     <ShowMoreText
-                                        /* Default options */
                                         lines={3}
                                         more='Show more'
                                         less='Show less'
@@ -66,7 +69,6 @@ class AboutUs extends Component {
                                     <h1>Mehedi Hassan Khan</h1>
                                     <h2>Project Manager</h2>
                                     <ShowMoreText
-                                        /* Default options */
                                         lines={3}
                                         more='Show more'
                                         less='Show less'
@@ -78,14 +80,12 @@ class AboutUs extends Component {
                                         He is responsible for overseeing the overall finance function of Cabbage Tech, driving business growth and profitability and developing corporate strategies.
                                         His mission is to continuously build an organization that provides industry best IT Professionals,
                                         broad range of technology services and flexible delivery models to the global software development industry so that they get more out of their IT Investments and with greater speed.
-
                                     </ShowMoreText>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
+                </div> */
         );
     }
 }

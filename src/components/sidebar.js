@@ -33,10 +33,7 @@ class Sidebar extends Component {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/#contact">Contact Us</a>
-              </li>
-              <li className="nav-item">                
-                  <a className="nav-link" target="_blank" rel="noopener noreferrer" href="https://cabbagetech.blog">Blog</a>                
-              </li>
+              </li>             
             </ul>
           </div>
         </nav>
@@ -48,3 +45,6 @@ class Sidebar extends Component {
   }
 }
 export default Sidebar;
+{/* <li className="nav-item">                
+<a className="nav-link" target="_blank" rel="noopener noreferrer" href="https://cabbagetech.blog">Blog</a>                
+</li> */}
